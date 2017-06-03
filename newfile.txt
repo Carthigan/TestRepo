@@ -1,2 +1,3 @@
 Some texts here
 change after 2nd commit
+Text from after branchtest commit
