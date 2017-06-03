@@ -1,3 +1,4 @@
 Some texts here
 change after 2nd commit
 Text from after branchtest commit
+Branch test edit from git url
