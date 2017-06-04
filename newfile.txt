@@ -2,3 +2,4 @@ Some texts here
 change after 2nd commit
 Text from after branchtest commit
 Branch test edit from git url
+Edit from branchtest local, afte git push made from local master branch
